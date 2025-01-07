@@ -2,7 +2,7 @@
 
 
 ## [MultiClassClassificationMicroservice](<https://github.com/DimaDerepa/DSPortfolio/tree/main/MultiClassClassificationMicroservice>)
-A FastAPI microservice supporting 2 groups of countries, utilizing transformer-based models to deliver predictions efficiently.
+A FastAPI microservice supporting 2 groups of states, utilizing transformer-based models to deliver predictions efficiently.
 
 ## [XLMRoberta](<https://github.com/DimaDerepa/DSPortfolio/tree/main/XLMRoberta>)
 - Data collection, analysis, and preprocessing.
